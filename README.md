@@ -35,6 +35,12 @@ This solution leverages **Tacotron 2**, a state-of-the-art sequence-to-sequence 
 
 ---
 
+## 🖼️ Demo Screenshot
+
+![TTS Spectrogram Demo](./assets/demo.png)
+
+---
+
 ## 🎥 Demo Preview
 
 [![TTS Demo Video](https://img.youtube.com/vi/ws614pKi2Oc/0.jpg)](https://youtu.be/ws614pKi2Oc)
