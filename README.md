@@ -37,7 +37,7 @@ This solution leverages **Tacotron 2**, a state-of-the-art sequence-to-sequence 
 
 ## 🎥 Demo Preview
 
-
+[![TTS Demo Video](https://img.youtube.com/vi/ws614pKi2Oc/0.jpg)](https://youtu.be/ws614pKi2Oc)
 ![TTS Demo](./assets/tts2-ezgif.com-video-to-gif-converter.gif)
 
 
