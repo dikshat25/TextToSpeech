@@ -37,13 +37,9 @@ This solution leverages **Tacotron 2**, a state-of-the-art sequence-to-sequence 
 
 ## 🎥 Demo Preview
 
-> *(Click image to watch demo)*
 
-[![Watch Demo Video](https://i.imgur.com/yourImage.png)](https://drive.google.com/file/d/1X7LVB0IP429c_nIg7LyuHpzHi99xP0Dx/view?usp=sharing)
+![TTS Demo](./assets/tts2-ezgif.com-video-to-gif-converter.gif)
 
-<!-- Or if you add a gif to repo:
-![Demo](./assets/demo.gif)
--->
 
 ---
 
